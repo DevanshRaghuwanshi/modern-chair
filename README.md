@@ -1,20 +1,14 @@
+# Chair Sale Project
 
-        <h1>Chair Sale Project</h1>
+Welcome to the **Chair Sale Project**, a simple yet elegant web interface for showcasing and selling chairs online. This project is built using **HTML** and **CSS** as a part of my initial exploration into web development.
 
-    <section>
-        <p>Welcome to the <strong>Chair Sale Project</strong>, a simple yet elegant web interface for showcasing and selling chairs online. This project is built using <strong>HTML</strong> and <strong>CSS</strong> as a part of my initial exploration into web development.</p>
+## Features
 
-        <h2>Features</h2>
-        <ul>
-            <li><strong>Clean and Minimal UI:</strong> A user-friendly design to attract potential buyers.</li>
-            <li><strong>Responsive Layout:</strong> The webpage adapts to different screen sizes, ensuring accessibility across devices.</li>
-            <li><strong>Product Showcase:</strong> Beautifully designed sections to display chairs with images and descriptions.</li>
-        </ul>
+- **Clean and Minimal UI:** A user-friendly design to attract potential buyers.
+- **Responsive Layout:** The webpage adapts to different screen sizes, ensuring accessibility across devices.
+- **Product Showcase:** Beautifully designed sections to display chairs with images and descriptions.
 
-        <h2>Technologies Used</h2>
-        <ul>
-            <li><strong>HTML:</strong> For creating the structure of the webpage.</li>
-            <li><strong>CSS:</strong> For styling the page and enhancing visual appeal.</li>
-        </ul>
-    </section>
+## Technologies Used
 
+- **HTML:** For creating the structure of the webpage.
+- **CSS:** For styling the page and enhancing visual appeal.
