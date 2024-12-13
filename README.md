@@ -12,3 +12,6 @@ Welcome to the **Modern Chair Project**, a simple yet elegant web interface for 
 
 - **HTML:** For creating the structure of the webpage.
 - **CSS:** For styling the page and enhancing visual appeal.
+
+### Screenshot
+![Project Screenshot](./images/SS.png)
