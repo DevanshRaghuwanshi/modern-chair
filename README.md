@@ -1,4 +1,4 @@
- Modern Chair
+## Modern Chair
 
 Welcome to the **Modern Chair Project**, a simple yet elegant web interface for showcasing and selling chairs online. This project is built using **HTML** and **CSS** as a part of my initial exploration into web development.
 
